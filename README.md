@@ -17,9 +17,11 @@ if we will click on cancel button, we will return to homepage screen.
 
 
 ![](images/search_no_found.png)
+
 enterd a website name that no exist in json file and click on search button, and return this popup message.
 
 
 ![](images/search_found.png)
+
 enterd a website name that no exist in json file and click on search button, and return this popup message with username and password for this specific website.
 
